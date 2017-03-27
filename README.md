@@ -1,4 +1,5 @@
-中文技术文档的写作规范。
+# 中文技术文档的写作规范
+---
 
 ## 目录
 
@@ -13,3 +14,7 @@
 ## License
 
 公共领域（public domain）
+
+## 原文作者
+
+#### [ruanyf](https://github.com/ruanyf/document-style-guide)
