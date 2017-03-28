@@ -1,4 +1,5 @@
 # 中文技术文档的写作规范
+
 ---
 
 ## 目录
@@ -11,12 +12,19 @@
 * [文档体系](docs/structure.md)
 * [参考链接](docs/reference.md)
 
-## [开始阅读](https://84hero.gitbooks.io/dockument-style-guide/content/)
+## [&gt;&gt;&gt;开始阅读&lt;&lt;&lt;](https://84hero.gitbooks.io/dockument-style-guide/content/)
+
+
+## 原文作者
+
+#### [ruanyf](https://github.com/ruanyf/document-style-guide)
+
 
 ## License
 
 公共领域（public domain）
 
-## 原文作者
 
-#### [ruanyf](https://github.com/ruanyf/document-style-guide)
+
+
+
