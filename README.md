@@ -12,9 +12,6 @@
 * [文档体系](docs/structure.md)
 * [参考链接](docs/reference.md)
 
-## [&gt;&gt;&gt;开始阅读&lt;&lt;&lt;](docs/title.md)
-
-
 ## 原文作者
 
 #### [ruanyf](https://github.com/ruanyf/document-style-guide)
@@ -24,6 +21,7 @@
 
 公共领域（public domain）
 
+## [&gt;&gt;&gt; GitBook &lt;&lt;&lt;](docs/title.md)
 
 
 
