@@ -11,6 +11,8 @@
 * [文档体系](docs/structure.md)
 * [参考链接](docs/reference.md)
 
+## [开始阅读](https://84hero.gitbooks.io/dockument-style-guide/content/)
+
 ## License
 
 公共领域（public domain）
