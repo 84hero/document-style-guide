@@ -21,7 +21,7 @@
 
 公共领域（public domain）
 
-## [&gt;&gt;&gt; GitBook &lt;&lt;&lt;](docs/title.md)
+## [&gt;&gt;&gt;阅读 GitBook &lt;&lt;&lt;](docs/title.md)
 
 
 
