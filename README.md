@@ -12,7 +12,7 @@
 * [文档体系](docs/structure.md)
 * [参考链接](docs/reference.md)
 
-## [&gt;&gt;&gt;开始阅读&lt;&lt;&lt;](https://84hero.gitbooks.io/dockument-style-guide/content/)
+## [&gt;&gt;&gt;开始阅读&lt;&lt;&lt;](docs/title.md)
 
 
 ## 原文作者
